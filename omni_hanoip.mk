@@ -28,7 +28,7 @@ $(call inherit-product, device/$(PRODUCT_BRAND)/$(PRODUCT_DEVICE)/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := $(PRODUCT_RELEASE_NAME)
-PRODUCT_NAME := twrp_$(PRODUCT_DEVICE)
+PRODUCT_NAME := omni_$(PRODUCT_DEVICE)
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := hanoip
 PRODUCT_MANUFACTURER := motorola
